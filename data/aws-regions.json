@@ -1,0 +1,20 @@
+{
+    "current": [
+        "IAD", "PDX", "SFO",
+        "DUB", "FRA",
+        "NRT", "SIN", "SYD",
+        "BJS",
+        "GRU"
+    ],
+    "announced": ["ICN", "BOM", "LHR"],
+    "pops": [
+        "IAD", "DFW", "SFO", "LAX", "JFK",
+        "EWR", "STL", "ATL", "JAX", "MIA", "SBN",
+        "GRU", "STU",
+        "AMS", "FRA", "LHR", "CDG",
+        "DUB", "MAD", "MRS", "MXP", "ARN", "WAW",
+        "HKG", "ICN", "SIN", "NRT",
+        "MAA", "MNL", "MEL", "BOM", "ITM", "SYD", "TSA"
+    ]
+}
+
