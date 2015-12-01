@@ -55,3 +55,10 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Repository-specific
+*.txt
+*.zip
+*.dat
+*.swp
+*.swo
